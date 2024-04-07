@@ -1,3 +1,4 @@
 ---
-title: SimpleOpenSource's Blog
+title: Blog
+menu: main
 ---
