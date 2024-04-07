@@ -1,5 +1,5 @@
 # SimpleOpenSource.com
-Official repository for generating the static website.
+Official repository for generating the static [website](https://simpleopensource.com).
 
 # For Developpers
 
