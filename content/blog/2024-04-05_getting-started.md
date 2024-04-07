@@ -43,4 +43,6 @@ date: 2024-04-05
 6. Access Github repository settings
     * In the "Pages" section, enter your custom domain name such as "simpleopensource.com"
 
+Your website is now available at your custom domain with free hosting!
+* Be careful not to generate too much traffic or Github will stop the hosting. [See documentation](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#limits-on-use-of-github-pages)
 

@@ -2,3 +2,9 @@ baseURL = 'https://SimpleOpenSource.github.io'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = ['SOS']
+
+[menus]
+[[menus.main]]
+    name = 'Documentation'
+    url = 'https://docs.simpleopensource.com'
+    weight = 20
